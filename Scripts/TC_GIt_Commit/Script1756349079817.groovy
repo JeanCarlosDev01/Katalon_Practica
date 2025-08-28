@@ -17,3 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('https://www.qa-practice.com/')
+
+WebUI.maximizeWindow()
+
+WebUI.click(findTestObject('Home_Page/btn_TextInput'))
+
+WebUI.setText(findTestObject('Input_Page/inptText_TextString'), 'This is a test')
+
