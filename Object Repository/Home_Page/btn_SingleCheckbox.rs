@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_SingleCheckbox</name>
+   <tag></tag>
+   <elementGuidId>68eeef1d-b1f5-4c45-aa33-7a9649974779</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/ol/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ol.rectangle > li:nth-of-type(3) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Single checkbox&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>09fcb8cb-d527-42da-bffe-b638bb2fc157</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/elements/checkbox/single_checkbox</value>
+      <webElementGuid>8424221e-c352-4bc8-8fde-dc9c1627138f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Single checkbox</value>
+      <webElementGuid>69a33aec-d559-4cc0-b0d6-8f74c43efee0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;home&quot;]/ol[@class=&quot;rectangle&quot;]/li[3]/a[1]</value>
+      <webElementGuid>e2917d73-8c26-448d-a829-abbb68de408c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/ol/li[3]/a</value>
+      <webElementGuid>ba2b1af3-e02d-492d-af0b-596b29fbe178</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Single checkbox')]</value>
+      <webElementGuid>1022cd53-900a-40f2-870c-748d11f6fd99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simple button'])[1]/following::a[1]</value>
+      <webElementGuid>413a871c-ba24-44db-93d1-8e7b7a105321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Text input'])[1]/following::a[2]</value>
+      <webElementGuid>fb06f5e9-31c7-4d5b-8ec0-15637f250aee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Text area'])[2]/preceding::a[1]</value>
+      <webElementGuid>6ac28568-46b3-4245-a8e0-ef9e6edf5137</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select input'])[1]/preceding::a[2]</value>
+      <webElementGuid>0704b2af-6261-4406-8376-bd1c324d1ec1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Single checkbox']/parent::*</value>
+      <webElementGuid>d6d28591-b35b-40d1-bf50-a94067b6dfbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/elements/checkbox/single_checkbox')]</value>
+      <webElementGuid>5c3ccbfc-bcc8-4ec1-b0f4-e28e7426617b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ol/li[3]/a</value>
+      <webElementGuid>8f0adf0a-7c55-45d2-9eb4-6198a9c529c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/elements/checkbox/single_checkbox' and (text() = 'Single checkbox' or . = 'Single checkbox')]</value>
+      <webElementGuid>6b5e9dc7-f740-4828-b8de-8aedb3c65897</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
