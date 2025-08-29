@@ -20,3 +20,5 @@ import org.openqa.selenium.Keys as Keys
 WebUI.openBrowser('')
 
 // Recien creado
+
+// Logica correcta
