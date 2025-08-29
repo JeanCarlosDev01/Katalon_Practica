@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>btn_SelectInput</name>
+   <name>btn_SelectInput_rename</name>
    <tag></tag>
    <elementGuidId>613e1919-c510-452e-bb6e-fa264d673168</elementGuidId>
    <selectorCollection>
