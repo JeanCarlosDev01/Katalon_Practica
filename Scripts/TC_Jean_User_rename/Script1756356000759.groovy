@@ -25,4 +25,6 @@ WebUI.delay(2)
 
 WebUI.acceptAlert()
 
+// Logica erronea
+
 WebUI.closeBrowser()
