@@ -24,3 +24,5 @@ WebUI.waitForAlert(4)
 WebUI.delay(2)
 
 WebUI.acceptAlert()
+
+WebUI.closeBrowser()
