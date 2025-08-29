@@ -23,6 +23,6 @@ WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Home_Page/btn_TextInput'))
 
-WebUI.setText(findTestObject('Input_Page/inptText_TextString'), 'This is a test')
+WebUI.setText(findTestObject('Input_Page/inptText_TextString'), 'This is a test case')
 
 WebUI.closeBrowser()
