@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_GIt_Commit</name>
+   <name>TC_GIt_Commit_rename</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
