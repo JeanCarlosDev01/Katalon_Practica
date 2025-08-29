@@ -25,4 +25,6 @@ WebUI.click(findTestObject('Home_Page/btn_TextInput'))
 
 WebUI.setText(findTestObject('Input_Page/inptText_TextString'), 'This is a test')
 
+// Se agrego nueva logica
+
 WebUI.closeBrowser()
